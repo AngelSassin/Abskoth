@@ -53,9 +53,6 @@
     <Reference Include="Satchel">
       <HintPath>..\..\..\..\Steam\steamapps\common\Hollow Knight\hollow_knight_Data\Managed\Mods\Satchel\Satchel.dll</HintPath>
     </Reference>
-    <Reference Include="SereCore">
-      <HintPath>..\..\..\..\Steam\steamapps\common\Hollow Knight\hollow_knight_Data\Managed\Mods\SereCore.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Web.Mobile" />

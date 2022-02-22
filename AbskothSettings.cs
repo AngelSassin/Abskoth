@@ -1,19 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.IO;
-using System.Reflection;
-using GlobalEnums;
-using Modding;
-using UnityEngine;
-using UnityEngine.UI;
-using Mono.Cecil.Cil;
-using MonoMod;
-using TMPro;
-using UnityEngine.SceneManagement;
-using HutongGames.PlayMaker;
-using HutongGames.PlayMaker.Actions;
-using Language;
+﻿using Modding;
 
 namespace Abskoth
 {
