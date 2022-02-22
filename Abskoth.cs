@@ -25,7 +25,7 @@ namespace Abskoth
 {
     public partial class Abskoth : Mod
     {
-        public const string Version = "0.1.0.0";
+        public const string Version = "1.0.0.0";
         public override string GetVersion() => Abskoth.Version;
         internal static Abskoth Instance;
         internal bool inAbskothFight = false;
